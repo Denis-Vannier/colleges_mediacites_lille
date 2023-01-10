@@ -15,7 +15,4 @@ Les Indices de position sociale (IPS) moyens des collèges, tels qu'ils sont com
 
  - "Logements ordinaires" (permet d'isoler les foyers avec enfants de 6 à 15 ans) : https://www.insee.fr/fr/statistiques/6544344?sommaire=6456104 
 
-- Population (données CSP sur l'ensemble des actifs): https://www.insee.fr/fr/statistiques/6543200#consulter
-   
-
 *Traitements : Denis Vannier (Le Plan Studio)*
