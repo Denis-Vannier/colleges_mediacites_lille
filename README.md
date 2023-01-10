@@ -10,5 +10,3 @@ Les Indices de position sociale (IPS) moyens des collèges, tels qu'ils sont com
 - Carte scolaire des collèges publics du Nord (Département du Nord): https://services.lenord.fr/trouver-mon-college-de-secteur / https://geonord-lenord.opendata.arcgis.com/pages/telechargement 
 
 - Données par iris du recensement de la population de 2019 (INSEE). Fichiers détail "Logements ordinaires" (permet d'isoler les foyers avec enfants de 6 à 15 ans) : https://www.insee.fr/fr/statistiques/6544344?sommaire=6456104 
-
-*Traitements : Denis Vannier (Le Plan Studio)*
