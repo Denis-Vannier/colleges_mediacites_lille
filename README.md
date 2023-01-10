@@ -1,6 +1,6 @@
 # Profils sociaux des secteurs de collège de la métropole de Lille
 
-Ce répertoire détaille les traitements réalisés en python sur les fichiers détail du recensement de 2019, afin de déterminer le profils social des parents d'élèves résidant dans chaque secteur de collège. Il s'applique ici aux secteurs de collèges tels qu'ils sont définis en 2022 par le Département du Nord, pour les collèges de la métropole de Lille. Ce travail a été réalisé dans le cadre d'une enquête pour le média d'investigation locale Médiacités, publiée le 11 janvier.
+Ce répertoire détaille les traitements réalisés en python sur les fichiers détail du recensement de 2019, afin de déterminer le profils social des parents d'élèves résidant dans chaque secteur de collège. Il s'applique ici aux secteurs de collèges tels qu'ils sont définis en 2022 par le Département du Nord, pour les collèges de la métropole de Lille. Ce travail a été réalisé dans le cadre d'une enquête pour le média d'investigation locale Médiacités.
 
 Les Indices de position sociale (IPS) moyens des collèges, tels qu'ils sont communiqués par l'Education nationale, ne permettent pas de mesurer le niveau de mixité socio-économique des élèves. Est-il possible de mesurer cette diversité, de manière indirecte, en observant les zones de recrutement des élèves des collèges publics ? Et les secteurs définis par le Conseil départemental permettent-ils d'atteindre cette mixité ?
 
