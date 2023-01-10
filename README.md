@@ -3,7 +3,7 @@
 *Ce répertoire détaille les traitements réalisés en python sur les fichiers détail du recensement de 2019, afin de déterminer le profils social des parents d'élèves résidant dans chaque secteur de collège. Il s'applique ici aux secteurs de collèges tels qu'ils sont définis en 2022 par le Département du Nord, pour les collèges de la métropole de Lille. Ce travail a été réalisé dans le cadre d'une enquête pour le média d'investigation locale Médiacités.*
 
 
-<img src="https://github.com/Denis-Vannier/colleges_mediacites_lille/blob/main/CARTE_PROFILS_SOC_IRIS_2019_LILLE.png" width="600" />
+<img src="https://github.com/Denis-Vannier/colleges_mediacites_lille/blob/main/CARTE_PROFILS_SOC_IRIS_2019_LILLE.png" width="800" />
 
 Pour comprendre les origines sociales des collégiens de la métropole lilloise sans utiliser les données personnelles détenues par les rectorats, j’ai utilisé les données ouvertes de l’Insee. Certaines d’entre elles permettent de répondre assez précisément à cette question : Qui sont les parents installés dans le secteur géographique attribué à chaque collège public ? 
 
@@ -21,8 +21,8 @@ Et puis, évidemment, les statistiques de l’Insee ne permettent pas de dire si
 
 Malgré tout, cette approche permet d'imaginer des redécoupages de secteurs entre des collèges voisins dont les IPS sont très différents, afin d'améliorer la mixité des deux collèges. Nous avons tenté cette expérience avec les données des secteurs de collèges Mendès France et Jules Verne, à Tourcoing. Le redécoupage que nous proposons a été obtenu par tatonnements, en changeant des iris entiers de secteurs puis en recalculant les profils sociaux, jusqu'à obtenir des chiffres similaires. Voici le résultat, tel qu'il a été publié dans Médiacités.
 
-<kbd><img src="https://raw.githubusercontent.com/Denis-Vannier/colleges_mediacites_lille/main/COMPAR%20MENDES_JULESVERNE_V2.png" width="700" /></kbd>
-<kbd><img src="https://raw.githubusercontent.com/Denis-Vannier/colleges_mediacites_lille/main/REDECOUPAGE_COLL_MENDES_VERNE.png" width="700" /></kbd>
+<img src="https://raw.githubusercontent.com/Denis-Vannier/colleges_mediacites_lille/main/COMPAR%20MENDES_JULESVERNE_V2.png" width="800" />
+<img src="https://raw.githubusercontent.com/Denis-Vannier/colleges_mediacites_lille/main/REDECOUPAGE_COLL_MENDES_VERNE.png" width="800" />
 
 
 
