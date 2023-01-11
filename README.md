@@ -17,8 +17,8 @@ Et puis, évidemment, les statistiques de l’Insee ne permettent pas de dire si
 
 Malgré tout, cette approche permet d'imaginer des redécoupages de secteurs entre des collèges voisins dont les IPS sont très différents, afin d'améliorer la mixité des deux collèges. Nous avons tenté cette expérience avec les données des secteurs de collèges Mendès France et Jules Verne, à Tourcoing. Le redécoupage que nous proposons a été obtenu par tatonnements, en changeant des iris entiers de secteurs puis en recalculant les profils sociaux, jusqu'à obtenir des chiffres similaires. Voici le résultat, tel qu'il a été publié dans Médiacités.
 
-<img src="https://raw.githubusercontent.com/Denis-Vannier/colleges_mediacites_lille/main/COMPAR%20MENDES_JULESVERNE_V2.png" width="800" />
-<img src="https://raw.githubusercontent.com/Denis-Vannier/colleges_mediacites_lille/main/REDECOUPAGE_COLL_MENDES_VERNE.png" width="800" />
+<img src="https://raw.githubusercontent.com/Denis-Vannier/colleges_mediacites_lille/main/COMPAR%20MENDES_JULESVERNE_V2.png?token=GHSAT0AAAAAAB5KGHT6SNB4WNPCXQPKESDCY56QIPQ" width="800" />
+<img src="https://raw.githubusercontent.com/Denis-Vannier/colleges_mediacites_lille/main/REDECOUPAGE_COLL_MENDES_VERNE.png?token=GHSAT0AAAAAAB5KGHT664YSAXNWBZJSH7ECY56QKCQ" width="800" />
 
 
 
