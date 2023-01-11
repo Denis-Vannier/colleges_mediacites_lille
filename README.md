@@ -1,6 +1,6 @@
 # Profils sociaux des secteurs de collège de la métropole de Lille
 
-**Ce répertoire contient les traitements réalisés sur les fichiers détail du recensement de 2019, afin de déterminer le profils social des parents d'élèves résidant dans chaque secteur de collège. Il est appliqué ici aux collèges de la métropole de Lille, dans le cadre d'une enquête co-écrite avec Matthieu Slisse pour Médiacités.**
+**Ce répertoire contient les traitements réalisés sur les fichiers détail du recensement de 2019, afin de déterminer le profils social des parents d'élèves résidant dans chaque secteur de collège. Il est appliqué ici aux collèges de la métropole de Lille, dans le cadre d'une [enquête co-écrite avec Matthieu Slisse pour Médiacités.](https://www.mediacites.fr/enquete/lille/2023/01/11/colleges-comment-la-carte-scolaire-entretient-la-segregation-sociale-dans-la-metropole-lilloise/)**
 
 
 <img src="https://github.com/Denis-Vannier/colleges_mediacites_lille/blob/main/CARTE_PROFILS_SOC_IRIS_2019_LILLE.png" width="800" />
